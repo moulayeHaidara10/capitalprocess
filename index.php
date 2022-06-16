@@ -133,12 +133,12 @@
         <div class="row align-items-center">
           <div class="col-md-8 text-center text-md-left">
               <div class="call-to-action-text">
-                <h3 class="action-title">We understand your needs on construction</h3>
+                <h3 class="action-title">Vous avez besoin d'un devis </h3>
               </div>
           </div><!-- Col end -->
           <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
               <div class="call-to-action-btn">
-                <a class="btn btn-dark" href="#">Request Quote</a>
+                <a class="btn btn-dark" href="#">Devis</a>
               </div>
           </div><!-- col end -->
         </div><!-- row end -->
@@ -151,7 +151,7 @@
     <div class="row">
         <div class="col-lg-6">
           <div class="ts-intro">
-              <h2 class="into-title">About Us</h2>
+              <h2 class="into-title">A propos de nous</h2>
               <h3 class="into-sub-title">We deliver landmark projects</h3>
               <p>We are rethoric question ran over her cheek When she reached the first hills of the Italic Mountains,
                 she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village
@@ -210,7 +210,7 @@
         </div><!-- Col end -->
 
         <div class="col-lg-6 mt-4 mt-lg-0">
-          <h3 class="into-sub-title">Our Values</h3>
+          <h3 class="into-sub-title">Nos Valeurs</h3>
           <p>Minim Austin 3 wolf moon scenester aesthetic, umami odio pariatur bitters. Pop-up occaecat taxidermy street art, tattooed beard literally.</p>
 
           <div class="accordion accordion-group" id="our-values-accordion">
@@ -275,7 +275,7 @@
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="1789">0</span></h2>
-                <h3 class="ts-facts-title">Total Projects</h3>
+                <h3 class="ts-facts-title">Total Projets</h3>
               </div>
           </div><!-- Col end -->
 
@@ -285,7 +285,7 @@
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="647">0</span></h2>
-                <h3 class="ts-facts-title">Staff Members</h3>
+                <h3 class="ts-facts-title">Equipes</h3>
               </div>
           </div><!-- Col end -->
 
@@ -295,7 +295,7 @@
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="4000">0</span></h2>
-                <h3 class="ts-facts-title">Hours of Work</h3>
+                <h3 class="ts-facts-title">Horaires</h3>
               </div>
           </div><!-- Col end -->
 
@@ -305,7 +305,7 @@
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="44">0</span></h2>
-                <h3 class="ts-facts-title">Countries Experience</h3>
+                <h3 class="ts-facts-title">Pays ou nous sommes</h3>
               </div>
           </div><!-- Col end -->
 
@@ -320,7 +320,7 @@
   <div class="container">
     <div class="row text-center">
         <div class="col-12">
-          <h2 class="section-title">We Are Specialists In</h2>
+          <h2 class="section-title">Nous sommes specialiser </h2>
           <h3 class="section-sub-title">What We Do</h3>
         </div>
     </div>
