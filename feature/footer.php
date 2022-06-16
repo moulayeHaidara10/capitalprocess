@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row justify-content-between">
           <div class="col-lg-4 col-md-6 footer-widget footer-about">
-            <h3 class="widget-title">About Us</h3>
+            <h3 class="widget-title">A propos</h3>
             <img loading="lazy" class="footer-logo" src="images/footer-logo.png" alt="Constra">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
               labore et dolore magna aliqua.</p>
@@ -15,7 +15,6 @@
                 </li>
                 <li><a href="https://instagram.com/themefisher" aria-label="Instagram"><i
                       class="fab fa-instagram"></i></a></li>
-                <li><a href="https://github.com/themefisher" aria-label="Github"><i class="fab fa-github"></i></a></li>
               </ul>
             </div><!-- Footer social end -->
           </div><!-- Col end -->
@@ -34,11 +33,9 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
             <h3 class="widget-title">Services</h3>
             <ul class="list-arrow">
-              <li><a href="service-single.html">Pre-Construction</a></li>
-              <li><a href="service-single.html">General Contracting</a></li>
-              <li><a href="service-single.html">Construction Management</a></li>
-              <li><a href="service-single.html">Design and Build</a></li>
-              <li><a href="service-single.html">Self-Perform Construction</a></li>
+            <li><a href="luminokrom.php">Luminokrom</a></li>
+            <li><a href="vanneries.php"></a>Vanneries</li>
+            <li><a href="reservoir.php">Reservoir anti-belier</a></li>
             </ul>
           </div><!-- Col end -->
         </div><!-- Row end -->
@@ -52,21 +49,21 @@
             <div class="copyright-info text-center">
               <span>Copyright &copy; <script>
                   document.write(new Date().getFullYear())
-                </script>, Designed &amp; Developed by <a href="https://themefisher.com">Themefisher</a></span>
+                </script>, Designed &amp; Developed by <a href="#">Haidara Moulaye</a></span>
             </div>
           </div>
 
           <div class="col-md-12">
             <div class="copyright-info text-center">
-              <span>Distributed by <a href="https://themewagon.com/">Themewagon</a></span>
+             
             </div>
           </div>
 
           <div class="col-md-12">
             <div class="footer-menu text-center">
               <ul class="list-unstyled mb-0">
-                <li><a href="about.html">About</a></li>
-                <li><a href="team.html">Our people</a></li>
+                <li><a href="about.html">A propos</a></li>
+                <li><a href="team.html">Service</a></li>
                 <li><a href="faq.html">Faq</a></li>
                 <li><a href="news-left-sidebar.html">Blog</a></li>
                 <li><a href="pricing.html">Pricing</a></li>

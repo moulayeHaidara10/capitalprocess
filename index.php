@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
 ================================================== -->
   <meta charset="utf-8">
-  <title>Constra - Construction Html5 Template</title>
+  <title>Capital process - </title>
 
   <!-- Mobile Specific Metas
 ================================================== -->
@@ -42,7 +42,7 @@
           <div class="row">
               <div class="col-lg-8 col-md-8">
                 <ul class="top-info text-center text-md-left">
-                    <li><i class="fas fa-map-marker-alt"></i> <p class="info-text">9051 Constra Incorporate, USA</p>
+                    <li><i class="fas fa-map-marker-alt"></i> <p class="info-text">Capital process, Cote d'ivoire</p>
                     </li>
                 </ul>
               </div>
@@ -51,17 +51,14 @@
               <div class="col-lg-4 col-md-4 top-social text-center text-md-right">
                 <ul class="list-unstyled">
                     <li>
-                      <a title="Facebook" href="https://facebbok.com/themefisher.com">
+                      <a title="Facebook" href="https://facebbok.com/">
                           <span class="social-icon"><i class="fab fa-facebook-f"></i></span>
                       </a>
-                      <a title="Twitter" href="https://twitter.com/themefisher.com">
+                      <a title="Twitter" href="https://twitter.com/">
                           <span class="social-icon"><i class="fab fa-twitter"></i></span>
                       </a>
-                      <a title="Instagram" href="https://instagram.com/themefisher.com">
+                      <a title="Instagram" href="https://instagram.com/">
                           <span class="social-icon"><i class="fab fa-instagram"></i></span>
-                      </a>
-                      <a title="Linkdin" href="https://github.com/themefisher.com">
-                          <span class="social-icon"><i class="fab fa-github"></i></span>
                       </a>
                     </li>
                 </ul>
@@ -78,16 +75,15 @@
 <!--/ Header end -->
 
 <div class="banner-carousel banner-carousel-1 mb-0">
-  <div class="banner-carousel-item" style="background-image:url(images/slider-main/bg1.jpg)">
+  <div class="banner-carousel-item" style="background-image:url(images/slider-main/lumino.jpeg)">
     <div class="slider-content">
         <div class="container h-100">
           <div class="row align-items-center h-100">
               <div class="col-md-12 text-center">
-                <h2 class="slide-title" data-animation-in="slideInLeft">17 Years of excellence in</h2>
-                <h3 class="slide-sub-title" data-animation-in="slideInRight">Construction Industry</h3>
+                <h2 class="slide-title" data-animation-in="slideInLeft">Peinture photoluminescent</h2>
+                <h3 class="slide-sub-title" data-animation-in="slideInRight">Luminokrom</h3>
                 <p data-animation-in="slideInLeft" data-duration-in="1.2">
-                    <a href="services.html" class="slider btn btn-primary">Our Services</a>
-                    <a href="contact.html" class="slider btn btn-primary border">Contact Now</a>
+                    <a href="contact.html" class="slider btn btn-primary border">Contact</a>
                 </p>
               </div>
           </div>
@@ -95,16 +91,16 @@
     </div>
   </div>
 
-  <div class="banner-carousel-item" style="background-image:url(images/slider-main/bg2.jpg)">
+  <div class="banner-carousel-item" style="background-image:url(images/slider-main/hydrofort.jpeg)">
     <div class="slider-content text-left">
         <div class="container h-100">
           <div class="row align-items-center h-100">
               <div class="col-md-12">
-                <h2 class="slide-title-box" data-animation-in="slideInDown">World Class Service</h2>
+                <h2 class="slide-title-box" data-animation-in="slideInDown">Les Réservoirs ballons anti-béliers</h2>
                 <h3 class="slide-title" data-animation-in="fadeIn">When Service Matters</h3>
                 <h3 class="slide-sub-title" data-animation-in="slideInLeft">Your Choice is Simple</h3>
                 <p data-animation-in="slideInRight">
-                    <a href="services.html" class="slider btn btn-primary border">Our Services</a>
+                    <a href="services.html" class="slider btn btn-primary border">Services</a>
                 </p>
               </div>
           </div>
@@ -112,7 +108,7 @@
     </div>
   </div>
 
-  <div class="banner-carousel-item" style="background-image:url(images/slider-main/bg3.jpg)">
+  <div class="banner-carousel-item" style="background-image:url(images/slider-main/vannes.jpeg)">
     <div class="slider-content text-right">
         <div class="container h-100">
           <div class="row align-items-center h-100">
