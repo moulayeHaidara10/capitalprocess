@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
 ================================================== -->
   <meta charset="utf-8">
-  <title>Capital process - </title>
+  <title>Capital process - Accueil</title>
 
   <!-- Mobile Specific Metas
 ================================================== -->
@@ -15,7 +15,7 @@
 
   <!-- Favicon
 ================================================== -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <!--<link rel="icon" type="image/png" href="images/favicon.png">-->
 
   <!-- CSS
 ================================================== -->
@@ -80,7 +80,8 @@
         <div class="container h-100">
           <div class="row align-items-center h-100">
               <div class="col-md-12 text-center">
-                <h2 class="slide-title" data-animation-in="slideInLeft">Peinture photoluminescent</h2>
+                <h2 class="slide-title" data-animation-in="slideInLeft">PEINTURE PHOTOLUMINESCENTE
+POUR SÉCURISER LES DÉPLACEMENTS DE NUIT</h2>
                 <h3 class="slide-sub-title" data-animation-in="slideInRight">Luminokrom</h3>
                 <p data-animation-in="slideInLeft" data-duration-in="1.2">
                     <a href="contact.html" class="slider btn btn-primary border">Contact</a>
@@ -113,9 +114,9 @@
         <div class="container h-100">
           <div class="row align-items-center h-100">
               <div class="col-md-12">
-                <h2 class="slide-title" data-animation-in="slideInDown">Meet Our Engineers</h2>
-                <h3 class="slide-sub-title" data-animation-in="fadeIn">We believe sustainability</h3>
-                <p class="slider-description lead" data-animation-in="slideInRight">We will deal with your failure that determines how you achieve success.</p>
+                <h2 class="slide-title" data-animation-in="slideInDown" style="color: #C51530 !IMPORTANT">Meet Our Engineers</h2>
+                <h3 class="slide-sub-title" data-animation-in="fadeIn" style="color: #C51530 !IMPORTANT">We believe sustainability</h3>
+                <p class="slider-description lead" data-animation-in="slideInRight" style="color: #C51530 !IMPORTANT">We will deal with your failure that determines how you achieve success.</p>
                 <div data-animation-in="slideInLeft">
                     <a href="contact.html" class="slider btn btn-primary" aria-label="contact-with-us">Get Free Quote</a>
                     <a href="about.html" class="slider btn btn-primary border" aria-label="learn-more-about-us">Learn more</a>
@@ -152,7 +153,7 @@
         <div class="col-lg-6">
           <div class="ts-intro">
               <h2 class="into-title">A propos de nous</h2>
-              <h3 class="into-sub-title">We deliver landmark projects</h3>
+              <h3 class="into-sub-title">Nous livrons des projets marquants</h3>
               <p>We are rethoric question ran over her cheek When she reached the first hills of the Italic Mountains,
                 she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village
                 and the subline of her own road, the Line Lane.</p>
@@ -167,7 +168,7 @@
                       <i class="fas fa-trophy"></i>
                     </span>
                     <div class="ts-service-box-content">
-                      <h3 class="service-box-title">We've Repution for Excellence</h3>
+                      <h3 class="service-box-title">Nous somme a la recherche de l'Excellence</h3>
                     </div>
                 </div><!-- Service 1 end -->
               </div><!-- col end -->
@@ -178,7 +179,7 @@
                       <i class="fas fa-sliders-h"></i>
                     </span>
                     <div class="ts-service-box-content">
-                      <h3 class="service-box-title">We Build Partnerships</h3>
+                      <h3 class="service-box-title">Nous construisons des partenariats</h3>
                     </div>
                 </div><!-- Service 2 end -->
               </div><!-- col end -->
@@ -191,7 +192,7 @@
                       <i class="fas fa-thumbs-up"></i>
                     </span>
                     <div class="ts-service-box-content">
-                      <h3 class="service-box-title">Guided by Commitment</h3>
+                      <h3 class="service-box-title">Guidé par l'Engagement</h3>
                     </div>
                 </div><!-- Service 1 end -->
               </div><!-- col end -->
@@ -202,7 +203,7 @@
                       <i class="fas fa-users"></i>
                     </span>
                     <div class="ts-service-box-content">
-                      <h3 class="service-box-title">A Team of Professionals</h3>
+                      <h3 class="service-box-title">Une Equipe de Professionnel</h3>
                     </div>
                 </div><!-- Service 2 end -->
               </div><!-- col end -->
@@ -218,7 +219,7 @@
                 <div class="card-header p-0 bg-transparent" id="headingOne">
                     <h2 class="mb-0">
                       <button class="btn btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                          Safety
+                          Sécurité
                       </button>
                     </h2>
                 </div>
@@ -233,7 +234,7 @@
                 <div class="card-header p-0 bg-transparent" id="headingTwo">
                     <h2 class="mb-0">
                       <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                          Customer Service
+                         Service Client
                       </button>
                     </h2>
                 </div>
@@ -247,7 +248,7 @@
                 <div class="card-header p-0 bg-transparent" id="headingThree">
                     <h2 class="mb-0">
                       <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                          Integrity
+                          Integrité
                       </button>
                     </h2>
                 </div>
@@ -271,17 +272,17 @@
         <div class="row">
           <div class="col-md-3 col-sm-6 ts-facts">
               <div class="ts-facts-img">
-                <img loading="lazy" src="images/icon-image/fact1.png" alt="facts-img">
+                <img loading="lazy" src="images/logo/work-from-home.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="1789">0</span></h2>
-                <h3 class="ts-facts-title">Total Projets</h3>
+                <h3 class="ts-facts-title">Projets</h3>
               </div>
           </div><!-- Col end -->
 
           <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-sm-0">
               <div class="ts-facts-img">
-                <img loading="lazy" src="images/icon-image/fact2.png" alt="facts-img">
+                <img loading="lazy" src="images/logo/office-worker.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="647">0</span></h2>
@@ -291,7 +292,7 @@
 
           <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-md-0">
               <div class="ts-facts-img">
-                <img loading="lazy" src="images/icon-image/fact3.png" alt="facts-img">
+                <img loading="lazy" src="images/logo/nine-oclock-on-circular-clock.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="4000">0</span></h2>
@@ -301,11 +302,11 @@
 
           <div class="col-md-3 col-sm-6 ts-facts mt-5 mt-md-0">
               <div class="ts-facts-img">
-                <img loading="lazy" src="images/icon-image/fact4.png" alt="facts-img">
+                <img loading="lazy" src="images/logo/world.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
                 <h2 class="ts-facts-num"><span class="counterUp" data-count="44">0</span></h2>
-                <h3 class="ts-facts-title">Pays ou nous sommes</h3>
+                <h3 class="ts-facts-title">Pays</h3>
               </div>
           </div><!-- Col end -->
 
@@ -321,7 +322,7 @@
     <div class="row text-center">
         <div class="col-12">
           <h2 class="section-title">Nous sommes specialiser </h2>
-          <h3 class="section-sub-title">What We Do</h3>
+          <h3 class="section-sub-title">Ce que nous faisons</h3>
         </div>
     </div>
     <!--/ Title row end -->
@@ -330,30 +331,30 @@
         <div class="col-lg-4">
           <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
-                <img loading="lazy" src="images/icon-image/service-icon1.png" alt="service-icon">
+                <img loading="lazy" src="images/logo/crosswalk.png" alt="service-icon">
               </div>
               <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Home Construction</a></h3>
+                <h3 class="service-box-title"><a href="#">Luminokrom</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
               </div>
           </div><!-- Service 1 end -->
 
-          <div class="ts-service-box d-flex">
+        <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
-                <img loading="lazy" src="images/icon-image/service-icon2.png" alt="service-icon">
+                <img loading="lazy" src="images/logo/tank.png" alt="service-icon">
               </div>
               <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Building Remodels</a></h3>
+                <h3 class="service-box-title"><a href="#">Reservoir Anti-Belier</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
               </div>
           </div><!-- Service 2 end -->
 
-          <div class="ts-service-box d-flex">
+   <!--       <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
                 <img loading="lazy" src="images/icon-image/service-icon3.png"  alt="service-icon">
               </div>
               <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Interior Design</a></h3>
+                <h3 class="service-box-title"><a href="#">Réservoir Anti-Belier</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
               </div>
           </div><!-- Service 3 end -->
@@ -361,21 +362,21 @@
         </div><!-- Col end -->
 
         <div class="col-lg-4 text-center">
-          <img loading="lazy" class="img-fluid" src="images/services/service-center.jpg" alt="service-avater-image">
+          <img loading="lazy" class="img-fluid" src="images/logo/logo.png" alt="service-avater-image">
         </div><!-- Col end -->
 
         <div class="col-lg-4 mt-5 mt-lg-0 mb-4 mb-lg-0">
           <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
-                <img loading="lazy" src="images/icon-image/service-icon4.png" alt="service-icon">
+                <img loading="lazy" src="images/logo/valve.png" alt="service-icon">
               </div>
               <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Exterior Design</a></h3>
+                <h3 class="service-box-title"><a href="#">Vanneries</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
               </div>
           </div><!-- Service 4 end -->
 
-          <div class="ts-service-box d-flex">
+      <!--    <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
                 <img loading="lazy" src="images/icon-image/service-icon5.png" alt="service-icon">
               </div>
@@ -385,7 +386,7 @@
               </div>
           </div><!-- Service 5 end -->
 
-          <div class="ts-service-box d-flex">
+      <!--    <div class="ts-service-box d-flex">
               <div class="ts-service-box-img">
                 <img loading="lazy" src="images/icon-image/service-icon6.png" alt="service-icon">
               </div>
@@ -405,8 +406,8 @@
   <div class="container">
     <div class="row text-center">
       <div class="col-lg-12">
-        <h2 class="section-title">Work of Excellence</h2>
-        <h3 class="section-sub-title">Recent Projects</h3>
+        <h2 class="section-title">Travail d'Excellence</h2>
+        <h3 class="section-sub-title">Projets Recent</h3>
       </div>
     </div>
     <!--/ Title row end -->
@@ -415,26 +416,18 @@
       <div class="col-12">
         <div class="shuffle-btn-group">
           <label class="active" for="all">
-            <input type="radio" name="shuffle-filter" id="all" value="all" checked="checked">Show All
+            <input type="radio" name="shuffle-filter" id="all" value="all" checked="checked">Afficher Tout
           </label>
           <label for="commercial">
-            <input type="radio" name="shuffle-filter" id="commercial" value="commercial">Commercial
+            <input type="radio" name="shuffle-filter" id="commercial" value="commercial">Luminokrom
           </label>
           <label for="education">
-            <input type="radio" name="shuffle-filter" id="education" value="education">Education
+            <input type="radio" name="shuffle-filter" id="education" value="education">Vanneries
           </label>
           <label for="government">
-            <input type="radio" name="shuffle-filter" id="government" value="government">Government
+            <input type="radio" name="shuffle-filter" id="government" value="government">Reservoir Anti-Belier
           </label>
-          <label for="infrastructure">
-            <input type="radio" name="shuffle-filter" id="infrastructure" value="infrastructure">Infrastructure
-          </label>
-          <label for="residential">
-            <input type="radio" name="shuffle-filter" id="residential" value="residential">Residential
-          </label>
-          <label for="healthcare">
-            <input type="radio" name="shuffle-filter" id="healthcare" value="healthcare">Healthcare
-          </label>
+    
         </div><!-- project filter end -->
 
 
@@ -443,33 +436,33 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;government&quot;,&quot;healthcare&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project1.jpg" aria-label="project-img">
-                <img class="img-fluid" src="images/projects/project1.jpg" alt="project-img">
+              <a class="gallery-popup" href="images/hydro.jpeg" aria-label="project-img">
+                <img class="img-fluid" src="images/hydro.jpeg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Capital Teltway Building</a>
+                    <a href="#">Reservoir Anti-Belier</a>
                   </h3>
-                  <p class="project-cat">Commercial, Interiors</p>
+                  <p class="project-cat">Reservoir</p>
                 </div>
               </div>
             </div>
           </div><!-- shuffle item 1 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;healthcare&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project2.jpg" aria-label="project-img">
-                <img class="img-fluid" src="images/projects/project2.jpg" alt="project-img">
+              <a class="gallery-popup" href="images/van.jpeg" aria-label="project-img">
+                <img class="img-fluid" src="images/van.jpeg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Ghum Touch Hospital</a>
+                    <a href="#"></a>
                   </h3>
-                  <p class="project-cat">Healthcare</p>
+                  <p class="project-cat">Vanneries</p>
                 </div>
               </div>
             </div>
@@ -477,22 +470,22 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg" aria-label="project-img">
-                <img class="img-fluid" src="images/projects/project3.jpg" alt="project-img">
+              <a class="gallery-popup" href="images/img/escaliers-jour-nuit-750x500-2.jpeg" aria-label="project-img">
+                <img class="img-fluid" src="images/img/escaliers-jour-nuit-750x500-2.jpeg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">TNT East Facility</a>
+                    <a href="#">PEINTURE PHOTOLUMINESCENTE</a>
                   </h3>
-                  <p class="project-cat">Government</p>
+                  <p class="project-cat">Luminokrom</p>
                 </div>
               </div>
             </div>
           </div><!-- shuffle item 3 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
+     <!--     <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project4.jpg" aria-label="project-img">
                 <img class="img-fluid" src="images/projects/project4.jpg" alt="project-img">
@@ -501,15 +494,15 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Narriot Headquarters</a>
+                    <a href="#">Narriot Headquarters</a>
                   </h3>
                   <p class="project-cat">Infrastructure</p>
                 </div>
               </div>
             </div>
-          </div><!-- shuffle item 4 end -->
+          </div> --><!-- shuffle item 4 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+      <!--    <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project5.jpg" aria-label="project-img">
                 <img class="img-fluid" src="images/projects/project5.jpg" alt="project-img">
@@ -518,7 +511,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Kalas Metrorail</a>
+                    <a href="#">Kalas Metrorail</a>
                   </h3>
                   <p class="project-cat">Infrastructure</p>
                 </div>
@@ -526,7 +519,7 @@
             </div>
           </div><!-- shuffle item 5 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;residential&quot;]">
+       <!--    <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;residential&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project6.jpg" aria-label="project-img">
                 <img class="img-fluid" src="images/projects/project6.jpg" alt="project-img">
@@ -535,7 +528,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Ancraft Avenue House</a>
+                    <a href="#">Ancraft Avenue House</a>
                   </h3>
                   <p class="project-cat">Residential</p>
                 </div>
@@ -543,16 +536,16 @@
             </div>
           </div><!-- shuffle item 6 end -->
         </div><!-- shuffle end -->
-      </div>
+    <!--  </div>-->
 
-      <div class="col-12">
+   <!--    <div class="col-12">
         <div class="general-btn text-center">
-          <a class="btn btn-primary" href="projects.html">View All Projects</a>
+          <a class="btn btn-primary" href="#">View All Projects</a>
         </div>
-      </div>
+      </div>-->
 
     </div><!-- Content row end -->
-  </div>
+<!--  </div>-->
   <!--/ Container end -->
 </section><!-- Project area end -->
 
@@ -560,7 +553,7 @@
   <div class="container">
     <div class="row">
         <div class="col-lg-6">
-          <h3 class="column-title">Testimonials</h3>
+          <h3 class="column-title">Temoignages</h3>
 
           <div id="testimonial-slide" class="testimonial-slide">
               <div class="item">
@@ -626,18 +619,18 @@
 
         <div class="col-lg-6 mt-5 mt-lg-0">
 
-          <h3 class="column-title">Happy Clients</h3>
+          <h3 class="column-title">Partenaires</h3>
 
           <div class="row all-clients">
               <div class="col-sm-4 col-6">
                 <figure class="clients-logo">
-                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/client1.png" alt="clients-logo" /></a>
+                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/logo/charlatte_reservoirs_blanctransp.png" alt="clients-logo" /></a>
                 </figure>
               </div><!-- Client 1 end -->
 
               <div class="col-sm-4 col-6">
                 <figure class="clients-logo">
-                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/clients/client2.png" alt="clients-logo" /></a>
+                    <a href="#!"><img loading="lazy" class="img-fluid" src="images/logo/logo-luminokrom.png" alt="clients-logo" /></a>
                 </figure>
               </div><!-- Client 2 end -->
 
@@ -680,23 +673,23 @@
     <div class="row">
         <div class="col-lg-4">
           <div class="subscribe-call-to-acton">
-              <h3>Can We Help?</h3>
-              <h4>(+9) 847-291-4353</h4>
+              <h3>Tel</h3>
+              <h4>(+225) 27 21 59 42 38</h4>
           </div>
         </div><!-- Col end -->
 
         <div class="col-lg-8">
           <div class="ts-newsletter row align-items-center">
               <div class="col-md-5 newsletter-introtext">
-                <h4 class="text-white mb-0">Newsletter Sign-up</h4>
-                <p class="text-white">Latest updates and news</p>
+                <h4 class="text-white mb-0">Newsletter</h4>
+                <p class="text-white"></p>
               </div>
 
               <div class="col-md-7 newsletter-form">
                 <form action="#" method="post">
                     <div class="form-group">
                       <label for="newsletter-email" class="content-hidden">Newsletter Email</label>
-                      <input type="email" name="email" id="newsletter-email" class="form-control form-control-lg" placeholder="Your your email and hit enter" autocomplete="off">
+                      <input type="email" name="email" id="newsletter-email" class="form-control form-control-lg" placeholder="Entrer votre email" autocomplete="off">
                     </div>
                 </form>
               </div>
@@ -708,7 +701,7 @@
   <!--/ Container end -->
 </section>
 <!--/ subscribe end -->
-
+<!--
 <section id="news" class="news">
   <div class="container">
     <div class="row text-center">
@@ -717,7 +710,7 @@
           <h3 class="section-sub-title">Recent Projects</h3>
         </div>
     </div>
-    <!--/ Title row end -->
+   Title row end 
 
     <div class="row">
         <div class="col-lg-4 col-md-6 mb-4">
@@ -737,8 +730,8 @@
                     </span>
                 </div>
               </div>
-          </div><!-- Latest post end -->
-        </div><!-- 1st post col end -->
+          </div>Latest post end 
+        </div> 
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
@@ -757,8 +750,8 @@
                     </span>
                 </div>
               </div>
-          </div><!-- Latest post end -->
-        </div><!-- 2nd post col end -->
+          </div><!-- Latest post end
+        </div>2nd post col end
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
@@ -777,18 +770,18 @@
                     </span>
                 </div>
               </div>
-          </div><!-- Latest post end -->
-        </div><!-- 3rd post col end -->
+          </div>Latest post end 
+        </div>3rd post col end 
     </div>
-    <!--/ Content row end -->
+    Content row end 
 
     <div class="general-btn text-center mt-4">
         <a class="btn btn-primary" href="news-left-sidebar.html">See All Posts</a>
     </div>
 
   </div>
-  <!--/ Container end -->
-</section>
+ Container end 
+  </section> -->
 <!--/ News end -->
 <?php require 'feature/footer.php'; ?>
  <!-- Footer end -->

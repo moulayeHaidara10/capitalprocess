@@ -4,29 +4,28 @@
         <div class="row justify-content-between">
           <div class="col-lg-4 col-md-6 footer-widget footer-about">
             <h3 class="widget-title">A propos</h3>
-            <img loading="lazy" class="footer-logo" src="images/footer-logo.png" alt="Constra">
+            <img loading="lazy" class="footer-logo" src="images/logo/logo.png" alt="Capital process">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
               labore et dolore magna aliqua.</p>
             <div class="footer-social">
               <ul>
-                <li><a href="https://facebook.com/themefisher" aria-label="Facebook"><i
+                <li><a href="https://facebook.com/" aria-label="Facebook"><i
                       class="fab fa-facebook-f"></i></a></li>
-                <li><a href="https://twitter.com/themefisher" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                <li><a href="https://twitter.com/" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                 </li>
-                <li><a href="https://instagram.com/themefisher" aria-label="Instagram"><i
+                <li><a href="https://instagram.com/" aria-label="Instagram"><i
                       class="fab fa-instagram"></i></a></li>
               </ul>
             </div><!-- Footer social end -->
           </div><!-- Col end -->
 
           <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0">
-            <h3 class="widget-title">Working Hours</h3>
+            <h3 class="widget-title">Horaires</h3>
             <div class="working-hours">
               We work 7 days a week, every day excluding major holidays. Contact us if you have an emergency, with our
               Hotline and Contact form.
-              <br><br> Monday - Friday: <span class="text-right">10:00 - 16:00 </span>
-              <br> Saturday: <span class="text-right">12:00 - 15:00</span>
-              <br> Sunday and holidays: <span class="text-right">09:00 - 12:00</span>
+              <br><br> Lundi - Vendredi: <span class="text-right">80:00 - 17:00 </span>
+              <br> Samedi: <span class="text-right">12:00 - 15:00</span>
             </div>
           </div><!-- Col end -->
 
@@ -62,11 +61,9 @@
           <div class="col-md-12">
             <div class="footer-menu text-center">
               <ul class="list-unstyled mb-0">
-                <li><a href="about.html">A propos</a></li>
-                <li><a href="team.html">Service</a></li>
-                <li><a href="faq.html">Faq</a></li>
-                <li><a href="news-left-sidebar.html">Blog</a></li>
-                <li><a href="pricing.html">Pricing</a></li>
+                <li><a href="apropos.php">A propos</a></li>
+                <li><a href="#">Service</a></li>
+                <li><a href="#">Faq</a></li>
               </ul>
             </div>
           </div>
