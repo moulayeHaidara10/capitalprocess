@@ -61,7 +61,6 @@
           <div class="col-md-12">
             <div class="footer-menu text-center">
               <ul class="list-unstyled mb-0">
-                <li><a href="apropos.php">A propos</a></li>
                 <li><a href="#">Service</a></li>
                 <li><a href="#">Faq</a></li>
               </ul>

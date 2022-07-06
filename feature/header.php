@@ -1,8 +1,8 @@
 <header id="header" class="header-one">
   
- <div class="bg-white">
-     <div class="container">
-       <div class="logo-area" style="height: 240px !important;"> 
+  <!-- <div class="bg-white">
+  <!--     <div class="container">
+ <!--      <div class="logo-area" style="height: 240px !important;"> 
           <div class="row align-items-center">
             <div class="logo col-lg-3 text-center text-lg-left mb-3 mb-md-5 mb-lg-0">
                 <a class="d-block" href="index.php">
@@ -10,7 +10,7 @@
                 </a>
             </div><!-- logo end -->
   
-             <div class="col-lg-9 header-right">
+ <!--            <div class="col-lg-9 header-right">
                 <ul class="top-info-box">
                   <li>
                     <div class="info-box">
@@ -40,24 +40,24 @@
                     <a class="btn btn-primary" href="contact.php">Demander un Devis</a>
                   </li>
                 </ul><!-- Ul end -->
-            </div><!-- header right end -->
-          </div><!-- logo area end -->
+  <!--          </div><!-- header right end -->
+  <!--        </div><!-- logo area end -->
   
-       </div><!-- Row end -->
-     </div><!-- Container end -->
-   </div>
+ <!--      </div><!-- Row end -->
+    <!--   </div><!-- Container end -->
+  <!--   </div>
 
-  <div class="site-navigation">
+  <!--  <div class="site-navigation">
     <div class="container">
         <div class="row">
           <div class="col-lg-12">
-              <nav class="navbar navbar-expand-lg navbar p-0">
+              <nav class="navbar navbar-expand-sm bg-white navbar-white fixed-top">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 
                 <div id="navbar-collapse" class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav mr-auto" >
+                    <ul class="nav navbar-nav mr-auto justify-content-end" >
                       <li class="nav-item">
                           <a href="index.php" class="nav-link">Accueil </a>
                       </li>
@@ -76,7 +76,7 @@
               </nav>
           </div>
           <!--/ Col end -->
-        </div>
+       <!--   </div>
         <!--/ Row end -->
 
         <!-- Search end -->
@@ -87,37 +87,36 @@
           </label>
           <span class="search-close">&times;</span>
         </div> --> <!-- Site search end -->
-    </div>
+    <!--  </div>
     <!--/ Container end -->
 
-  </div>
+ <!--   </div>
   <!--/ Navigation end -->
-   <!--/ Navbar -->
- <!--/  <nav class="navbar navbar-expand-sm bg-white navbar-white fixed-top">
-
-<!-- Links -->
-   <!--/       <div id="navbar-collapse" class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav justify-content-end" >
-                      <li class="nav-item">
-                          <a href="index.php" class="nav-link">Accueil </a>
-                      </li>
-                      <li class="nav-item dropdown">
-                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
-                          <ul class="dropdown-menu" role="menu">
-                            <li><a href="#">Luminokrom</a></li>
-                            <li><a href="#">Vanneries</a></li>
-                            <li><a href="#">Reservoir anti-belier</a></li>
-                          </ul>
+  <div class="menu-bar">
+  <nav class="navbar navbar-expand-lg navbar-white bg-white fixed-top">
+  <a class="navbar-brand" href="#"><img src="images/logo/logo.png" alt="" width="130px" height="auto"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto" >
+    <li class="nav-item">
+        <a href="index.php" class="nav-link">Accueil </a>
+     </li>
+      <li class="nav-item dropdown">
+      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="#">Luminokrom</a></li>
+           <li><a href="#">Vanneries</a></li>
+            <li><a href="#">Reservoir anti-belier</a></li>
+         </ul>
                       </li>
               
-                      <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Contact</a>
-                      </li>
+                      <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
                     </ul>
-                </div>
-
-
-
-</nav>-->
+    </ul>
+  </div>
+</nav>
+  </div>
 
 </header>
