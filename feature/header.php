@@ -92,29 +92,34 @@
 
  <!--   </div>
   <!--/ Navigation end -->
-  <div class="menu-bar">
-  <nav class="navbar navbar-expand-lg navbar-white bg-white fixed-top">
+  <div class="site-navigation">
+  <nav class="navbar navbar-expand-lg navbar-white bg-white fixed-top" style="height:100px !important">
   <a class="navbar-brand" href="#"><img src="images/logo/logo.png" alt="" width="130px" height="auto"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav ml-auto" >
-    <li class="nav-item">
-        <a href="index.php" class="nav-link">Accueil </a>
-     </li>
-      <li class="nav-item dropdown">
-      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
-        <ul class="dropdown-menu" role="menu">
-          <li><a href="#">Luminokrom</a></li>
-           <li><a href="#">Vanneries</a></li>
-            <li><a href="#">Reservoir anti-belier</a></li>
-         </ul>
+    
+     <div id="navbar-collapse" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav mr-auto justify-content-end" >
+                      <li class="nav-item">
+                          <a href="index.php" class="nav-link">Accueil </a>
                       </li>
-              
-                      <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                      <li class="nav-item dropdown">
+                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Produits <i class="fa fa-angle-down"></i></a>
+                          <ul class="dropdown-menu" role="menu">
+                            <li><a href="#">Luminokrom</a></li>
+                            <li><a href="#">Vanneries</a></li>
+                            <li><a href="#">Reservoir anti-belier</a></li>
+                          </ul>
+                      </li>
+                      <li class="nav-item">
+        <a href="#" class="nav-link">Services </a>
+     </li>
+                      <li class="nav-item"><a class="nav-link" href="contact.html">Nous Contacter</a></li>
                     </ul>
-    </ul>
+                </div>
   </div>
 </nav>
   </div>
